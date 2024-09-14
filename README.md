@@ -13,7 +13,7 @@ Sou  um apaixonado por tecnologia em todos os seus âmbitos, indo desde o hardwa
       🎓 EM BUSCA DE MAIS...
 
 
-“Quem busca o conhecimento e o acha, obterá dois prémios: um por procurá-lo, e outro por achá-lo. Se não o encontrar, ainda restará o primeiro prémio.” (frases Islâmicas)
+**“Quem busca o conhecimento e o acha, obterá dois prémios: um por procurá-lo, e outro por achá-lo. Se não o encontrar, ainda restará o primeiro prémio.”** (frases Islâmicas)
 
 ## ESTÁTISCAS DO GITHUB
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devLink13&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
