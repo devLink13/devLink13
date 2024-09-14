@@ -8,11 +8,8 @@ Sou  um apaixonado por tecnologia em todos os seus âmbitos, indo desde o hardwa
 👨‍🎓 **--> MINHAS FORMAÇÕES ATUAIS:**
 
       🎓 GRADUADO EM ANALISE E DESENVOLVIMENTO DE SISTEMAS
-      
       🎓 TÉCNICO EM ELETROTÉNICA
-      
       🎓 TÉCNICO EM ELETROELETRÔNICA
-      
       🎓 EM BUSCA DE MAIS...
 
 🧑‍💻 **--> O QUE ESTOU ESTUDANDO ATUALMENTE:**
@@ -34,3 +31,7 @@ Sou  um apaixonado por tecnologia em todos os seus âmbitos, indo desde o hardwa
 
 
 ## ME SIGA NAS REDES SOCIAIS
+![image](https://github.com/user-attachments/assets/9f348d97-6572-46b5-8bf5-5c777a046b89) https://www.instagram.com/wesley_link_/
+
+![image](https://github.com/user-attachments/assets/5a6c6db9-5cad-4c03-b94e-27ad98a14ef7) https://www.linkedin.com/in/wesleylink
+
