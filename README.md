@@ -1,16 +1,19 @@
-## Hi there 👋
+## Olá, meu nome é *Wesley Link* 👋!
 
-<!--
-**devLink13/devLink13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou  um apaixonado por tecnologia em todos os seus âmbitos, indo desde o hardware até o sofwtare. Aquilo que é possível de pensar é possível de materializar e aprimorar.
 
-Here are some ideas to get you started:
+--> MINHAS FORMAÇÕES ATUAIS:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+      🎓 GRADUADO EM ANALISE E DESENVOLVIMENTO DE SISTEMAS
+      
+      🎓 TÉCNICO EM ELETROTÉNICA
+      
+      🎓 TÉCNICO EM ELETROELETRÔNICA
+      
+      🎓 EM BUSCA DE MAIS...
+
+
+“Quem busca o conhecimento e o acha, obterá dois prémios: um por procurá-lo, e outro por achá-lo. Se não o encontrar, ainda restará o primeiro prémio.” (frases Islâmicas)
+
+## ESTÁTISCAS DO GITHUB
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devLink13&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
