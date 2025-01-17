@@ -15,6 +15,9 @@ Sou  um apaixonado por tecnologia em todos os seus âmbitos, indo desde o hardwa
 🧑‍💻 **--> O QUE ESTOU ESTUDANDO ATUALMENTE:**
 
       🧑‍💻 PROGRAMAÇÃO DE INTERFACES COM QTDESIGNER E PYQT6/PYSIDE5
+      🧑‍💻 CRIAÇÃO DE API'S REST USANDO FLASK
+      🧑‍💻 BANCOS DE DADOS E LINGUAGEM SQL
+      🧑‍💻 GIT
       🧑‍💻 IOT E INDUSTRIA 4.0
       🧑‍💻 LINGUAGEM PYTHON ORIENTADA A OBJETOS
       🧑‍💻 APRONFUDAMENTO NA LINGUAGEM PYTHON
