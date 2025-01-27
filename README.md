@@ -3,7 +3,7 @@
 Sou  um apaixonado por tecnologia em todos os seus âmbitos, indo desde o hardware até o software. Aquilo que é possível de pensar é possível de materializar e aprimorar.
 
 ⚠️ AVISO:
-      Aqui você verá de tudo um pouco, não é um perfil de git voltado à linguagem x ou y ou z, e sim ao armazenamento de troca de conhecimento, portanto teremos projetos em linguagem python (que é a melhor do mundo por sinal rsrs), linguagem c, java, projetos de iot, industria 4.0, desenvolvimento de GUI'S com QTDESIGNER e etc...
+      Aqui você verá de tudo um pouco, não é um perfil de git voltado à linguagem x ou y ou z, e sim ao armazenamento de troca de conhecimento, portanto teremos projetos em linguagem python (que é a melhor do mundo por sinal rsrs), linguagem c, javascript, projetos de iot, industria 4.0, desenvolvimento de GUI'S com QTDESIGNER e etc...
 
 👨‍🎓 **--> MINHAS FORMAÇÕES ATUAIS:**
 
