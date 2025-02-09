@@ -1,9 +1,11 @@
 ## Olá, meu nome é *Wesley Link* 👋!
 
-Sou  um apaixonado por tecnologia em todos os seus âmbitos, indo desde o hardware até o software. Aquilo que é possível de pensar é possível de materializar e aprimorar.
+Sou  um apaixonado por tecnologia em todos os seus âmbitos, indo do hardware até o software.
+
+>  "Aquilo que é possível de pensar é possível de materializar e aprimorar.'
 
 ⚠️ AVISO:
-      Aqui você verá de tudo um pouco, não é um perfil de git voltado à linguagem x ou y ou z, e sim ao armazenamento de troca de conhecimento, portanto teremos projetos em linguagem python (que é a melhor do mundo por sinal rsrs), linguagem c, javascript, projetos de iot, industria 4.0, desenvolvimento de GUI'S com QTDESIGNER e etc...
+      Aqui você verá de tudo um pouco, não é um perfil de git voltado à linguagem x ou y ou z, e sim ao armazenamento e troca de conhecimento, portanto teremos projetos em linguagem python (que é a melhor do mundo por sinal rsrs), linguagem c, javascript, projetos de iot, industria 4.0, desenvolvimento de GUI's, API's e etc...
 
 👨‍🎓 **--> MINHAS FORMAÇÕES ATUAIS:**
 
@@ -17,7 +19,7 @@ Sou  um apaixonado por tecnologia em todos os seus âmbitos, indo desde o hardwa
       🧑‍💻 PROGRAMAÇÃO DE INTERFACES COM QTDESIGNER E PYQT6/PYSIDE5
       🧑‍💻 CRIAÇÃO DE API'S REST USANDO FLASK
       🧑‍💻 BANCOS DE DADOS E LINGUAGEM SQL
-      🧑‍💻 GIT
+      🧑‍💻 GIT e GITHUB
       🧑‍💻 IOT E INDUSTRIA 4.0
       🧑‍💻 LINGUAGEM PYTHON ORIENTADA A OBJETOS
       🧑‍💻 APRONFUDAMENTO NA LINGUAGEM PYTHON
@@ -30,7 +32,8 @@ Sou  um apaixonado por tecnologia em todos os seus âmbitos, indo desde o hardwa
 
 
 ## ESTÁTISCAS DO GITHUB
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devLink13&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devLink13&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF) <br>
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=devLink13&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
 ## ME SIGA NAS REDES SOCIAIS
