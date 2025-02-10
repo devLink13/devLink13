@@ -27,7 +27,10 @@ Sou  um apaixonado por tecnologia em todos os seus âmbitos, indo do hardware at
           
 **“Quem busca o conhecimento e o acha, obterá dois prémios: um por procurá-lo, e outro por achá-lo. Se não o encontrar, ainda restará o primeiro prémio.”** (frases Islâmicas)
 ##
-![image](https://github.com/user-attachments/assets/d43886c7-2bfb-4966-a002-a18598edcc7a) ![image](https://github.com/user-attachments/assets/7b2c4f78-48d7-4d7f-aaf6-ff0b50a7f1cf) ![image](https://github.com/user-attachments/assets/4d81c83a-7971-4b3b-b782-a6b14fa5c4c8)
+![Python](https://img.icons8.com/color/48/000000/python.png)
+![C](https://img.icons8.com/color/48/000000/c-programming.png)
+![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
+![Arduino](https://img.icons8.com/color/48/000000/arduino.png)
 ##
 
 
